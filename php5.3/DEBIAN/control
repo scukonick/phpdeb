@@ -1,0 +1,10 @@
+Package: php5.3
+Priority: extra
+Section: checkinstall
+Installed-Size: 30724
+Maintainer: root@web3
+Architecture: amd64
+Version: 5.3.27-scukonick+5
+Depends: libpq5
+Provides: php
+Description: PHP5.3.27 for wheezy
